@@ -44,7 +44,7 @@ public class QuizZero {
     public static  int Qeight(int a, int b, int c) { return (a + b) / c; }
     
     // write code to pass the test
-    public static  int Qnine(int a, int b) { return 0; }
+    public static  int Qnine(int a, int b) { return a * b + 5; }
     
     // write code to pass the test
     public static  boolean Qaay(boolean a, boolean b) { 
